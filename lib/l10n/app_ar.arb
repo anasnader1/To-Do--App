@@ -1,0 +1,19 @@
+{
+"app_title":"برنامج المهام",
+"task_title":"عنوان المهمه",
+"task_des":"تفصيل المهمه",
+"task_list":"قائمه المهام",
+"setting":"الاعدادات",
+"new_task": "اضافه مهمه جديده",
+"task_name":"ادخل اسم المهمه",
+"select_date": "اختر التاريخ",
+"add": "اضف",
+"theme" : "النمط",
+"dark":"ليلي",
+"light" : "نهاري",
+"please_enter_task_title":"برجاء ادخال عنوان المهمه",
+"please_enter_task_description" :"برجاء ادخال شرح المهمه",
+"arabic": "العربيه",
+"english" : "الانجليزيه",
+"language": "اللغه"
+}
